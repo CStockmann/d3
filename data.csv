@@ -1,12 +1,6 @@
-pathogen,number
-Aeromonas,8
-Campylobacter,14
-Clostridium difficile,148
-Plesiomonas shigelloides,3
-Salmonella,21
-Yersinia enterocolitica,1
-Vibrio cholerae,1
-Shigella / EIEC,22
-EAEC,30
-EPEC,89
-ETEC,11
+x,y
+100,100
+130,120
+80,180
+180,80
+180,40
